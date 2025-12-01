@@ -1,0 +1,3 @@
+something: cluster2-guestbook
+nested:
+  something: cluster2-guestbook
